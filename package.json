@@ -1,1 +1,24 @@
+{
+  "name": "employeemanagementsystek",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r ## Getting Started",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narayan143raj/EmployeeManagment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narayan143raj/EmployeeManagment/issues"
+  },
+  "homepage": "https://github.com/narayan143raj/EmployeeManagment#readme"
+}
 
